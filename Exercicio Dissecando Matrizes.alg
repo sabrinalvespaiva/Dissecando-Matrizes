@@ -1,5 +1,5 @@
 algoritmo "DissencandoMatrizes"
-//4 por 4, que permite o usuario escolher se quer ver a diagonal principal, matriz inteira, tiagulo superior ou triangulo inferior
+
 var
 matriz: vetor [1..4, 1..4] de Inteiro
 linha, coluna, num: Inteiro
